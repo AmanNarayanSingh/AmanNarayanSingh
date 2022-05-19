@@ -2,6 +2,8 @@
 - 👀 I’m interested in Python programming language, Competitive Programming, Data Structures and Algorithms, Cloud native,blockchain,AI & ML, web development.
 - 🌱 I’m currently learning GoLang, Ethereum Blockchain
 - 💞️ I’m looking to collaborate on open source projects.
+- 💻 LeetCode Profile : https://leetcode.com/amannarayansingh10/
+- 💻 HackerRank Profile : https://www.hackerrank.com/amannarayansing1
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/aman-narayan-singh-7a36a6165/
 
 <!---
