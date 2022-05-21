@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 💻 LeetCode Profile : https://leetcode.com/amannarayansingh10/
 - 💻 HackerRank Profile : https://www.hackerrank.com/amannarayansing1
+- Primary programming language: Python 
+- I have experience in using these languages and tools as well for programming and web development: C programming, JAVA, SQL, HTML5, CSS, JavaScript, Bootstrap, jQuery,                                                                                                     DOM, GoLang.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/aman-narayan-singh-7a36a6165/
 
 <!---
