@@ -1,6 +1,7 @@
 <h3>👋 Hi, I’m Aman Narayan Singh </h3>
 - 👀 I’m interested in Python programming language, Competitive Programming, Data Structures and Algorithms, Cloud native,blockchain,AI & ML, web development.
-- 🌱 I’m currently learning GoLang, Ethereum Blockchain, Rest Architecture 
+<br>
+- 🌱 I’m currently learning GoLang, Ethereum Blockchain, Rest Architecture <br>
 - 💞️ I’m looking to collaborate on open source projects.
 <br>
 <br>
