@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 <br>
 <br>
-<p> <img src="https://komarev.com/ghpvc/?username=yat2k&label=Profile%20views&color=ff69b4&style=flat" alt="yat2k" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=amannarayansingh&label=Profile%20views&color=ff69b4&style=flat" alt="aman" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
