@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning GoLang, Ethereum Blockchain, Rest Architecture 
 - 💞️ I’m looking to collaborate on open source projects.
 
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yat2k&label=Profile%20views&color=ff69b4&style=flat" alt="yat2k" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-narayan-singh-7a36a6165/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aman-narayan-singh-7a36a6165/" height="30" width="40" /></a>
