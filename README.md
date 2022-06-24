@@ -17,7 +17,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amannarayansingh&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="amannarayansingh" /></p>
 <br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amannarayansingh&show_icons=true&locale=en&theme=radical&include_all_commits=true" alt="amannarayansingh" /></p>
+<br>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amannarayansingh&theme=radical" alt="amannarayansingh" /></p>
 
