@@ -25,6 +25,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=amannarayansingh&show_icons=true&locale=en&theme=radical&include_all_commits=true" alt="amannarayansingh" />
 <br>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amannarayansingh&theme=radical" alt="amannarayansingh" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amannarayansingh&theme=radical" alt="amannarayansingh" / >
 
 
