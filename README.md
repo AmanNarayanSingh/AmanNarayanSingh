@@ -1,7 +1,7 @@
 <h3>👋 Hi, I’m Aman Narayan Singh </h3>
 - 👀 I’m interested in Python programming language, Competitive Programming, Data Structures and Algorithms, Cloud native,Blockchain,AI & ML, web development.
 <br>
-- 🌱 I’m currently learning Java and eager to learn JDBC <br>
+- 🌱 I’m currently learning Java and eager to learn JDBC. <br>
 - 💞️ I’m looking to collaborate on open source projects.
 <br>
 <br>
